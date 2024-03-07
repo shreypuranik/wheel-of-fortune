@@ -38,8 +38,9 @@ This will tell you who has won!
 ```
 ➜  $ make spin
 ./wheel-of-fortune
-Spinning the wheel. What will you win?
-The winner is Steve%  
+Spinning the wheel. Who will engineer todays show?
+
+The winner is Steve
 ```
 Have the best show! :) 
 
